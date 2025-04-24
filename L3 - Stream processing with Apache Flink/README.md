@@ -6,8 +6,8 @@
 ## Rides and Fares Test
 ![RidesAndFaresTest](screenshots/RidesAndFaresTest.png)
 
-## Expiring State Harness Test
-![ExpiringStateHarnessTest](screenshots/ExpiringStateHarnessTest.png)
+## Expiring State Test
+![ExpiringStateTest](screenshots/ExpiringStateTest.png)
 
 ## Hourly Tips Test
 ![HourlyTipsTest](screenshots/HourlyTipsTest.png)
