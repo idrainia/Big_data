@@ -1,13 +1,13 @@
-#Скриншоты с результатами прохождения тестов:
+Скриншоты с результатами прохождения тестов:
 
-#RideCleansingTest
+## Ride Cleansing Test
 ![RideCleansingTest](screenshots/RideCleansingTest.png)
 
-#RidesandFaresTest
+## Rides and Fares Test
 ![RidesAndFaresTest](screenshots/RidesAndFaresTest.png)
 
-#ExpiringStateHarnessTest
+## Expiring State Harness Test
 ![ExpiringStateHarnessTest](screenshots/ExpiringStateHarnessTest.png)
 
-#HourlyTipsTest
+## Hourly Tips Test
 ![HourlyTipsTest](screenshots/HourlyTipsTest.png)
